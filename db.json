@@ -1,0 +1,218 @@
+{
+  "seller": [
+    {
+      "name": "vaishnavi kulkarni",
+      "email": "vk@gmail.com",
+      "password": "vkvkvk",
+      "id": 1
+    },
+    {
+      "name": "mayur kulkarni",
+      "email": "mayur@gmail.com",
+      "password": "mmmmm",
+      "id": 2
+    },
+    {
+      "name": "rrr",
+      "password": "789",
+      "email": "Kvaishnavi408@gmail.com",
+      "id": 3
+    },
+    {
+      "name": "rrr",
+      "password": "123",
+      "email": "Kvaishnavi408@gmail.com",
+      "id": 4
+    },
+    {
+      "name": "sunita",
+      "password": "123",
+      "email": "sunita@gmail.com",
+      "id": 5
+    },
+    {
+      "name": "nachiket kulkarni",
+      "password": "nknknk",
+      "email": "nk@gmail.com",
+      "id": 6
+    },
+    {
+      "name": "mayur kulkarni",
+      "password": "mkmkmk",
+      "email": "mk@gmail.com",
+      "id": 7
+    }
+  ],
+  "products": [
+    {
+      "name": "Samsung M31S",
+      "price": "15000",
+      "color": "mobile",
+      "category": "grey",
+      "description": "A powerful Octa-core processor and 6GB/8GB of RAM.",
+      "image": "https://images.samsung.com/is/image/samsung/p6pim/in/sm-m317fzkeins/gallery/in-galaxy-m31s-m317fz-8gb-sm-m317fzkeins-442234475?$624_624_PNG$",
+      "id": 1
+    },
+    {
+      "name": "iPhone 6s",
+      "price": "6000000",
+      "color": "white",
+      "category": "mobile",
+      "description": "Height and Weight · Height: 5.44 inches (138.3 mm) · Width: 2.64 inches (67.1 mm)",
+      "image": "https://www.smartcellular.in/media/catalog/product/cache/bf0ca523f7526fad50b11dad4e4bee43/s/_/s_gray_3_1_1_1_1.jpg",
+      "id": 2
+    },
+    {
+      "name": "HP Laptop",
+      "price": "40000",
+      "color": "white",
+      "category": "Laptop",
+      "description": "Built for Multi-tasking & productivity",
+      "image": "https://in-media.apjonlinecdn.com/catalog/product/cache/314dec89b3219941707ad62ccc90e585/5/0/50M59PA-1_T1680316099.png",
+      "id": 3
+    },
+    {
+      "name": "Gitar",
+      "price": "100000",
+      "color": "orange",
+      "category": "Instrument",
+      "description": "Buy Acoustic Guitar from top brands like Medellin.",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQchs0vaSoG7BFMOkyHJ7Yi4NkN9ss5-16asA&usqp=CAU",
+      "id": 4
+    },
+    {
+      "name": "Smart Watch",
+      "price": "6000",
+      "color": "pink",
+      "category": "Watch",
+      "description": "Full Screen Touch Watch Specially Made for Girl & Women.",
+      "image": "https://sslimages.shoppersstop.com/sys-master/images/hc8/he7/30130311233566/CENTAUR0523PK_NoColour.jpg_230Wx334H",
+      "id": 5
+    },
+    {
+      "name": "Womens Sweatshirt",
+      "price": "1000",
+      "color": "grey",
+      "category": "clothes",
+      "description": "Women Self Design V Neck Multicolor Sweater",
+      "image": "https://rukminim1.flixcart.com/image/550/650/xif0q/sweater/r/v/c/l-pv-911-grey-pivl-original-imagjh2z5g92rfbv.jpeg?q=90&crop=false",
+      "id": 6
+    },
+    {
+      "name": "sunglasses",
+      "price": "1000",
+      "color": "black",
+      "category": "sunglasses",
+      "description": "a stylish and versatile accessory for the modern man.",
+      "image": "https://images.jdmagicbox.com/quickquotes/images_main/m138bk1_152508983392799000.jpg",
+      "id": 7
+    },
+    {
+      "name": "School Bag",
+      "price": "1000",
+      "color": "blue",
+      "category": "bags",
+      "description": "school bags from American Tourister",
+      "image": "https://sreeleathers.com/cdn/shop/files/15888_490_2.jpg?v=1683890922",
+      "id": 8
+    }
+  ],
+  "users": [
+    {
+      "name": "Vaishnavi Kulkarni ",
+      "email": "vk@gmail.com",
+      "password": "123456",
+      "id": 1
+    },
+    {
+      "name": "nachiket kulkarni",
+      "email": "nk@gmail.com",
+      "password": "123456",
+      "id": 2
+    }
+  ],
+  "cart": [
+    {
+      "name": "Samsung M31S",
+      "price": "15000",
+      "color": "mobile",
+      "category": "grey",
+      "description": "A powerful Octa-core processor and 6GB/8GB of RAM.",
+      "image": "https://images.samsung.com/is/image/samsung/p6pim/in/sm-m317fzkeins/gallery/in-galaxy-m31s-m317fz-8gb-sm-m317fzkeins-442234475?$624_624_PNG$",
+      "quantity": 1,
+      "productId": 1,
+      "userId": null,
+      "id": 1
+    },
+    {
+      "name": "Samsung M31S",
+      "price": "15000",
+      "color": "mobile",
+      "category": "grey",
+      "description": "A powerful Octa-core processor and 6GB/8GB of RAM.",
+      "image": "https://images.samsung.com/is/image/samsung/p6pim/in/sm-m317fzkeins/gallery/in-galaxy-m31s-m317fz-8gb-sm-m317fzkeins-442234475?$624_624_PNG$",
+      "quantity": 1,
+      "productId": 1,
+      "userId": null,
+      "id": 2
+    },
+    {
+      "name": "HP Laptop",
+      "price": "40000",
+      "color": "white",
+      "category": "Laptop",
+      "description": "Built for Multi-tasking & productivity",
+      "image": "https://in-media.apjonlinecdn.com/catalog/product/cache/314dec89b3219941707ad62ccc90e585/5/0/50M59PA-1_T1680316099.png",
+      "quantity": 1,
+      "productId": 3,
+      "userId": null,
+      "id": 3
+    },
+    {
+      "name": "HP Laptop",
+      "price": "40000",
+      "color": "white",
+      "category": "Laptop",
+      "description": "Built for Multi-tasking & productivity",
+      "image": "https://in-media.apjonlinecdn.com/catalog/product/cache/314dec89b3219941707ad62ccc90e585/5/0/50M59PA-1_T1680316099.png",
+      "quantity": 1,
+      "productId": 3,
+      "userId": null,
+      "id": 4
+    },
+    {
+      "name": "Samsung M31S",
+      "price": "15000",
+      "color": "mobile",
+      "category": "grey",
+      "description": "A powerful Octa-core processor and 6GB/8GB of RAM.",
+      "image": "https://images.samsung.com/is/image/samsung/p6pim/in/sm-m317fzkeins/gallery/in-galaxy-m31s-m317fz-8gb-sm-m317fzkeins-442234475?$624_624_PNG$",
+      "quantity": 1,
+      "userId": 1,
+      "productId": 1,
+      "id": 5
+    },
+    {
+      "name": "HP Laptop",
+      "price": "40000",
+      "color": "white",
+      "category": "Laptop",
+      "description": "Built for Multi-tasking & productivity",
+      "image": "https://in-media.apjonlinecdn.com/catalog/product/cache/314dec89b3219941707ad62ccc90e585/5/0/50M59PA-1_T1680316099.png",
+      "quantity": 1,
+      "userId": 1,
+      "productId": 3,
+      "id": 6
+    }
+  ],
+  "orders": [
+    {
+      "email": "nk@gmail.com",
+      "address": "Beed",
+      "contact": "8149856521",
+      "totalPrice": 6015050,
+      "userId": 2,
+      "id": 2
+    }
+  ]
+}
